@@ -1,8 +1,6 @@
 # Facemash
 
-This is my implementation of the facemash website shown in the film "__The Social Network__". 
-Thanks to my friend Allwin for this idea.
-
+This is my implementation of the facemash website. Where you can rank people's pictures. But in this case I think rating farm animals would be lot better option. xD
 I used the [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) to rank the images.
 
 images.sql is the sql dump of the "images" table that the php code needs. The scripts folder has some php scripts I used to populate the table with links to images.
